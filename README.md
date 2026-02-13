@@ -20,3 +20,12 @@ Hospital Queue Booking System
 Dark / Light Mode ปุ่มสลับธีม
 แสดงจำนวนคิวแบบ Real-Time
 Dashboard แบบ Animated กราฟจำนวนผู้ป่วยต่อวัน
+
+Color Palette
+| Purpose    | Color Name   | Hex Code |
+| ---------- | ------------ | -------- |
+| Primary    | Medical Blue | #2F80ED  |
+| Secondary  | Soft Green   | #27AE60  |
+| Accent     | Warm Orange  | #F2994A  |
+| Background | Light Gray   | #F2F2F2  |
+| Text       | Dark Gray    | #333333  |
