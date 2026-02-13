@@ -19,3 +19,4 @@ Hospital Queue Booking System
 มีลูกเล่นคือ 
 Dark / Light Mode ปุ่มสลับธีม
 แสดงจำนวนคิวแบบ Real-Time
+Dashboard แบบ Animated กราฟจำนวนผู้ป่วยต่อวัน
